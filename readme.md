@@ -1,6 +1,6 @@
 # Chowdown
 
-A simple, plaintext recipe database for hackers
+A simple, plaintext recipe database for the Greens.
 
 forked from [http://chowdown.io](http://chowdown.io)
 
