@@ -11,14 +11,14 @@ tags:
 - dinner
 
 nutrition:
-    servingSize: 4 0z
-    calories: 299.8 g
-    fatContent: 17.6 g
-    cholesterolContent: 70.2 mg
-    sodiumContent: 738.3 mg
-    carbohydrateContent: 7.0 g
-    fiberContent: 1.2 g
-    proteinContent: 28.2 g
+    servingSize: 4 oz
+    calories: 299.8
+    fatContent: 17.6
+    cholesterolContent: 70.2
+    sodiumContent: 738.3
+    carbohydrateContent: 7.0
+    fiberContent: 1.2
+    proteinContent: 28.2
 
 minutestoprepare: 120
 minutestocook: 10
@@ -27,9 +27,10 @@ numberofservings: 4
 ingredients:
 - 1 pound (16 ounces) boneless skinless chicken breast, cut into bite sized chunks.
 - 3 Tbsp soy sauce
-- 3 Tbsp olive oil
-- 2 Tbsp raw cane sugar
-- 1 tsp honey
+- 2 Tbsp olive oil
+- 1 Tbsp sesame oil
+- 1 Tbsp raw cane sugar
+- 1 Tbsp honey
 - 1/2 tsp garlic powder
 - 1/4 cup white, untoasted sesame seeds
 - liberal pinch black pepper
