@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Seasme Chicken"
+title:  "Sesame Chicken"
 image: sesame-chicken.jpg
 imagecredit: https://recipes.sparkpeople.com/more-about-me.asp?user=1534218
 recipecredit: https://recipes.sparkpeople.com/recipe-detail.asp?recipe=802640
