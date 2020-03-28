@@ -20,9 +20,9 @@ nutrition:
     fiberContent: 1.2
     proteinContent: 28.2
 
-minutestoprepare: 120
-minutestocook: 10
-numberofservings: 4
+prepareTime: 120
+cookTime: 10
+servings: 4
 
 ingredients:
 - 1 pound (16 ounces) boneless skinless chicken breast, cut into bite sized chunks.
