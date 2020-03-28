@@ -12,12 +12,14 @@ layout: default
 
 	<div class="recipes mb4 flex flex-wrap">
     {% assign sorted = site.recipes | sort:"title" %}
-    {% for post in sorted %}
+    {% for recipe in sorted %}
 
-      <div class="recipe col col-12 sm-col-6 md-col-4 lg-col-3 py1 pb2" name="{{post.name}}">
-          <a class="block relative mx1" href="{{ post.url | prepend: site.baseurl }}">
-            <div class="image"{% for image in post.image %} style="background-image:url({{site.baseurl}}/images/{{ image }});"{% endfor %}></div>
-            <h1 class="title pt1 m0">{{ post.title }}</h1>
+      <div class="recipe col col-12 sm-col-6 md-col-4 lg-col-3 py1 pb2" name="{{recipe.id}}">
+          <a class="block relative mx1" href="{{ recipe.url | prepend: site.baseurl }}">
+            <div class="image"{% for image in recipe.image %} style="background-image:url({{site.baseurl}}/images/{{ image }});"{% endfor %}></div>
+            <h1 class="title pt1 m0">{{ recipe
+		    
+		    .title }}</h1>
           </a>
       </div>
     {% endfor %}
