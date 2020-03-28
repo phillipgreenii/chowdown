@@ -1,5 +1,5 @@
 # Site settings
-title: Chowdown
+title: Meals
 description: The plain text recipe database for the Greens
 baseurl: "//meals.the-greens.info"
 language: "en"
