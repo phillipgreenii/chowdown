@@ -5,7 +5,7 @@ var matchRecipes = (function () {
 var recipes = [
   {% for recipe in site.recipes %}
     {
-      "id"	: "{{ recipe.name }}",
+      "id"	: "{{ recipe.id }}",
       "title"	: "{{ recipe.title | escape }}",
       {% if recipe.ingredients %}"ingredients"	: "{% for ingredient in recipe.ingredients %}{{ ingredient | escape }}, {% endfor %}",{% endif %}
       {% if recipe.tags %}"tags"	: "{% for tag in recipe.tags %}{{ tag | escape }} {% endfor %}",{% endif %}
