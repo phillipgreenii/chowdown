@@ -23,7 +23,7 @@ nutrition:
     proteinContent: 16.2
 
 prepareTime: 20
-cookTime: 600
+cookTime: 360
 servings: 8
 
 ingredients:
