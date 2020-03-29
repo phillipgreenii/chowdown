@@ -1,14 +1,14 @@
 ---
 
 layout: recipe
-title:  "Melting Pot Green Goddess Dip"
+title: "Melting Pot Green Goddess Dip"
 image: melting-pot-green-goddess.jpg
 imagecredit: https://www.food.com/recipe/melting-pots-green-goddess-dip-234958
 recipecredit: https://www.food.com/recipe/melting-pots-green-goddess-dip-234958
 tags: 
 - dip
 
-nutrition:Stir in sour cream, onion, parsley and chives. Refrigerate until cold.
+nutrition:
     servingSize: 1 g
     calories: 81.5
     fatContent: 7.8
