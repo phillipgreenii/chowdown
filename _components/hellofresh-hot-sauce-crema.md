@@ -4,6 +4,9 @@ layout: recipe
 title:  "HelloFresh Hot Sauce Crema"
 recipecredit: https://www.hellofresh.com/recipes/cheesy-beef-tostadas-5e5e99eefe4fe564d46a14ca
 
+utensils:
+- 1 small bowl
+
 ingredients:
 - 4 tablespoon Sour Cream
 - 1 teaspoon Hot Sauce
