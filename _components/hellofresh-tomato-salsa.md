@@ -2,7 +2,9 @@
 
 layout: recipe
 title:  "HelloFresh Tomato Salsa"
-recipecredit: https://www.hellofresh.com/recipes/cheesy-beef-tostadas-5e5e99eefe4fe564d46a14ca              
+image: "hellofresh-tomato-salsa-and-hot-sauce-crema.jpg"
+imagecredit: https://www.hellofresh.com/recipes/cheesy-beef-tostadas-5e5e99eefe4fe564d46a14ca
+recipecredit: https://www.hellofresh.com/recipes/cheesy-beef-tostadas-5e5e99eefe4fe564d46a14ca
 
 utensils:
 - 1 medium bowl

@@ -2,6 +2,8 @@
 
 layout: recipe
 title:  "HelloFresh Hot Sauce Crema"
+image: "hellofresh-tomato-salsa-and-hot-sauce-crema.jpg"
+imagecredit: https://www.hellofresh.com/recipes/cheesy-beef-tostadas-5e5e99eefe4fe564d46a14ca
 recipecredit: https://www.hellofresh.com/recipes/cheesy-beef-tostadas-5e5e99eefe4fe564d46a14ca
 
 utensils:
