@@ -31,6 +31,7 @@ utensils:
 
 ingredients:
 - 1 lime
+- 1 roma tomato
 - 1 yellow onion
 - 1 tablespoon southwest spice blend
 - 1 [beef stock concentrate](https://www.reddit.com/r/hellofresh/comments/9l7m0c/how_much_in_a_stock_packet/)
@@ -39,6 +40,7 @@ ingredients:
 - 10 ounce ground beef
 - 1 teaspoon chili powder
 - 6 flour tortillas
+- 4 teaspoon vegetble oil
 
 directions:
 - Adjust rack to top position and preheat oven to 450 degrees. 
