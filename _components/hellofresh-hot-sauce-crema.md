@@ -9,6 +9,8 @@ recipecredit: https://www.hellofresh.com/recipes/cheesy-beef-tostadas-5e5e99eefe
 utensils:
 - 1 small bowl
 
+servings: 2
+
 ingredients:
 - 4 tablespoon Sour Cream
 - 1 teaspoon Hot Sauce
