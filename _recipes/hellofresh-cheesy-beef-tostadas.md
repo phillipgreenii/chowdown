@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "HelloFresh Cheesy Beef Tostadas"
+title:  "Cheesy Beef Tostadas (HelloFresh)"
 image: "hellofresh-cheesy-beef-tostadas.jpg"
 imagecredit: https://www.hellofresh.com/recipes/cheesy-beef-tostadas-5e5e99eefe4fe564d46a14ca
 recipecredit: https://www.hellofresh.com/recipes/cheesy-beef-tostadas-5e5e99eefe4fe564d46a14ca
