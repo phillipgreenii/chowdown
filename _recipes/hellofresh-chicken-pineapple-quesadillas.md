@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "HelloFresh Chicken Pineapple Quesadillas"
+title:  "Chicken Pineapple Quesadillas (HelloFresh)"
 image: "chicken-pineapple-quesadillas.jpg"
 imagecredit: https://www.hellofresh.com/recipes/chicken-pineapple-quesadillas-5e5026694cd03e416b3ebf93
 recipecredit: https://www.hellofresh.com/recipes/chicken-pineapple-quesadillas-5e5026694cd03e416b3ebf93

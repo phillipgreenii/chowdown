@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Sweet Potato Chorizo Patties"
+title:  "Sweet Potato Chorizo Patties (HelloFresh)"
 image: "hellofresh-sweet-potato-chorizo-patties.jpg"
 imagecredit: https://www.hellofresh.com/recipes/sweet-potato-chorizo-patties-594ab2233131005121389202/
 recipecredit: https://www.hellofresh.com/recipes/sweet-potato-chorizo-patties-594ab2233131005121389202/

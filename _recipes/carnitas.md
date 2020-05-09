@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Downshiftology Carnitas"
+title:  "Carnitas (Downshiftology)"
 image: "downshiftology-carnitas.jpg"
 imagecredit: https://downshiftology.com/recipes/carnitas/
 recipecredit: https://downshiftology.com/recipes/carnitas/
@@ -56,5 +56,7 @@ directions:
 - Pour 1 cup of the reserved slow cooker liquid over the pork to keep it moist and tender.
 - Broil for 5-10 minutes or until the meat becomes golden browned and crispy on the edges.
 
+notes:
+- Getting the pork shoulder out of the slow cooker after it's cooked can be a little difficult, given that it's so tender and will likely fall apart. I recommend using a spatula underneath to support it when removing.
+
 ---
-Getting the pork shoulder out of the slow cooker after it's cooked can be a little difficult, given that it's so tender and will likely fall apart. I recommend using a spatula underneath to support it when removing.
