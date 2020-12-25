@@ -9,6 +9,11 @@ tags:
 - chocolate
 - dessert
 
+equipment:
+- Stand mixer
+- Whisk
+- Cooling rack
+
 ingredients:
 - 2 sticks (16 Tbsp) Unsalted butter
 - 0.5 cup white sugar
