@@ -59,3 +59,23 @@ unsaturatedFatContent:
   type: Mass
   description: The number of grams of unsaturated fat.
   unit: g
+ironContent:
+  name: iron
+  type: Mass
+  description: The number of milligrams of iron.
+  unit: mg
+calciumContent:
+  name: calcium
+  type: Mass
+  description: The number of milligrams of calcium.
+  unit: mg
+vitaminAContent:
+  name: vitamin A
+  type: Mass
+  description: The number of international units of vitamin A.
+  unit: IU
+vitaminCContent:
+  name: vitamin C
+  type: Mass
+  description: The number of milligrams of vitamin C.
+  unit: mg
