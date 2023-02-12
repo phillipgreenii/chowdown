@@ -14,13 +14,14 @@ tags:
 - pork
 - beef
 
-prepareTime: 5
-cookTime: 5
-servings: 1
+prepareTime: 30
+cookTime: 900
+servings: 10
 
 utensils:
 - medium high deep pot
 - blender
+- frying pan
 
 ingredients:
 - 1/2 cup extra virgin olive oil (EVOO)
@@ -55,7 +56,7 @@ directions:
 - Parial cover pot and slow simmer
 - While sauce is simmer, start the meat
 - In bowl, add parsley, ground beef, ground pork, eggs, panko, chilli flake, garlic powder, dried oregano, grated parmesan, kosher salt, olive oil, black pepper
-- Mix with spoon to combine: no clumps, but don't squeeze
+- Mix with spoon to combine; no clumps, but don't squeeze
 - Fry off small test patty to check seasoning
 - Form balls (~ 2 oz)
 - Heat pan with olive oil to med - med high
