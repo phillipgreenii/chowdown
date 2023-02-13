@@ -15,7 +15,7 @@ tags:
 - beef
 
 prepareTime: 30
-cookTime: 900
+cookTime: 90
 servings: 10
 
 utensils:
@@ -26,11 +26,11 @@ utensils:
 ingredients:
 - 1/2 cup extra virgin olive oil (EVOO)
 - 1 large onion (diced)
-- 10 cloves onion (diced)
+- 10 cloves garlic diced)
 - 2 oz liquid (wine or water)
 - 1 28 oz whole peeled tomatoes
 - 1 15 oz whole peeled tomatoes
-- parmesan rind
+- ~ 3 oz parmesan rind
 - 1 bunch of parsley (1/4 c)
 - 1 lb ground beef chuck (80/20)
 - 1 lb ground pork
@@ -53,15 +53,17 @@ directions:
 - Fill empty tomato cans with water to rinse and dump water into pot 
 - Add parmesan rind
 - Add salt and pepper to taste
-- Parial cover pot and slow simmer
+- Parial cover pot and slow simmer (stir occasionally)
 - While sauce is simmer, start the meat
-- In bowl, add parsley, ground beef, ground pork, eggs, panko, chilli flake, garlic powder, dried oregano, grated parmesan, kosher salt, olive oil, black pepper
+- Slightly beat eggs
+- In bowl, add reserved onion/garlic mixture, parsley, ground beef, ground pork, beaten eggs, panko, chilli flake, garlic powder, dried oregano, grated parmesan, kosher salt, olive oil, black pepper
 - Mix with spoon to combine; no clumps, but don't squeeze
 - Fry off small test patty to check seasoning
 - Form balls (~ 2 oz)
 - Heat pan with olive oil to med - med high
 - Brown "all sides"; light browning is fine (this should take about 15 minutes)
 - By this time, the sauce should have been simmering for about an hour
+- Check seasoning of sauce; may need to add more salt or pepper
 - Add meatballs to sauce and completely cover
 - Cook for another 25-30 minutes
 
