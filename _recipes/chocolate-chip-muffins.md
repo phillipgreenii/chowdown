@@ -28,8 +28,8 @@ ingredients:
 - 4 tablespoons unsalted butter melted and cooled
 - 1 large egg  
 - 1/4 cup milk
-- 1 cup all-purpose flour
-- 1/4 cup + 3 tablespoons white sugar
+- 4 1/4 oz (1 cup) all-purpose flour
+- 3 oz (1/4 cup + 3 Tbsp) white sugar
 - 1 teaspoons baking powder
 - 1/2 teaspoon kosher salt  
 - 1/2 cup semi-sweet and/or dark chocolate chips
