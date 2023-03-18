@@ -61,7 +61,7 @@ body {
 		}
 
 .recipe-detail img {
-  width: 100%
+  max-width: 100%
 
 }
 .recipe-detail ul{
@@ -86,3 +86,11 @@ body {
 			background-size: cover;
 			background-position: 50% 50%;
 		}
+
+.winning-photo {
+    text-align: center;
+}
+
+.winning-photo figure {
+    display: inline-block;
+}
