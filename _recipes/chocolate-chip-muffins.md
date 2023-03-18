@@ -32,17 +32,17 @@ ingredients:
 - 1/4 cup + 3 tablespoons white sugar
 - 1 teaspoons baking powder
 - 1/2 teaspoon kosher salt  
-- 1 cup semi-sweet and/or dark chocolate chips
-- 1 cup crushed nuts
+- 1/2 cup semi-sweet and/or dark chocolate chips
+- 1/2 cup crushed nuts
 
 directions:
-- Preheat the oven to 375 degrees. 
-- Prepare a 12-cup muffin tin with liners or spray with non-stick cooking spray.
-- Combine the melted butter, eggs and milk in a medium bowl. 
-- In a large bowl, whisk flour, sugar, baking powder and salt. 
-- Add wet ingredients into dry ingredients and stir to combine. 
-- Fold in chocolate chips and fold until evenly combine.
-- Divide the batter evenly among the 6 muffin liners. 
+- Preheat the oven to 375 degrees.
+- Prepare a 6-cup muffin tin with liners or spray with non-stick cooking spray.
+- Combine the melted butter, eggs, and milk in a medium bowl.
+- In a large bowl whisk all dry incredients: flour, sugar, baking powder and salt.
+- Add wet ingredients into dry ingredients and stir to combine.
+- Fold in chocolate chips and nuts until evenly combined.
+- Divide the batter evenly among the 6 muffin liners.
 - Bake for 25-30 minutes until golden brown on top and a toothpick or knife can be inserted into the center of the muffin and comes out clean.
 
 notes:
