@@ -25,9 +25,9 @@ utensils:
 - large bowl
 
 ingredients:
- - Topping: 1/2 cup (100g) packed light or dark brown sugar
- - Topping: 1/2 cup (67g) chopped walnuts (or pecans)
- - Topping: 1 teaspoon ground cinnamon
+ - "Topping: 1/2 cup (100g) packed light or dark brown sugar"
+ - "Topping: 1/2 cup (67g) chopped walnuts (or pecans)"
+ - "Topping: 1 teaspoon ground cinnamon"
  - 1 and 3/4 cups (219g) all-purpose flour (spooned & leveled)
  - 1 teaspoon baking soda
  - 1 teaspoon baking powder
@@ -52,10 +52,10 @@ directions:
 
 
 notes:
-Sour Cream: Sour cream adds so much moisture. Plain yogurt is a great substitute. Unsweetened applesauce or mashed banana may also be used.
-Milk: You can use any milk, dairy or nondairy.
-Can I Use Buttermilk? Yes, you can use buttermilk in this recipe. Use it to replace BOTH the sour cream and milk. Use 3/4 cup (180ml).
-Blueberries: If using frozen blueberries, do not thaw.
-Quick Bread: Here is my blueberry muffin bread, which is essentially the same recipe in a loaf pan.
+ - "Sour Cream: Sour cream adds so much moisture. Plain yogurt is a great substitute. Unsweetened applesauce or mashed banana may also be used."
+ - "Milk: You can use any milk, dairy or nondairy."
+ - "Can I Use Buttermilk? Yes, you can use buttermilk in this recipe. Use it to replace BOTH the sour cream and milk. Use 3/4 cup (180ml)."
+ - "Blueberries: If using frozen blueberries, do not thaw."
+ - "Quick Bread: Here is my blueberry muffin bread, which is essentially the same recipe in a loaf pan."
 
 ---
